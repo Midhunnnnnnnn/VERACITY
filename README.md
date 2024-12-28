@@ -28,7 +28,7 @@ Features:
    - Offers insights based on the stored records to assist in proactive healthcare.
 
 6. Hybrid Storage:
-   - Sensitive metadata is stored on the blockchain for security.
+   - Sensitive metadata address is stored on the blockchain for security.
    - Detailed records are stored in MongoDB, with encrypted references to blockchain metadata.
 
 Tech Stack:
