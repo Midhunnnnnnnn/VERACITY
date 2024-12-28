@@ -66,7 +66,7 @@ Architecture:
 Installation:
 
 1. Clone the repository:
-   git clone https://github.com/your-username/veracity.git
+   git clone https://github.com/Midhunnnnnnnn/VERACITY
    cd veracity
 
 2. Install dependencies:
